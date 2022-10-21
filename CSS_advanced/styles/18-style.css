@@ -111,7 +111,7 @@ body, a{
     --nav-item-letter-spacing: 4%;
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 300% 0;
-    --nav-item-link-hover: var(var(--color-primary));
+    --nav-item-link-hover: var(--color-primary);
 }
 
 body{
