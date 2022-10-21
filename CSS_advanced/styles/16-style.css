@@ -45,7 +45,8 @@ body, a{
 
 .container{
     width: 960px;
-    margin: 0;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 .section-header{
