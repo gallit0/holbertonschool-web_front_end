@@ -1,10 +1,14 @@
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+*{
+    box-sizing: border-box
+}
+
 *::before{
     box-sizing: border-box;
 }
 
 *::after{
-    box-sizing: content-box;;
+    box-sizing: border-box;
 }
 
 html{
