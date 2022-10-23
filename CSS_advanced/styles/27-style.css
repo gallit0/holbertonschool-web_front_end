@@ -155,10 +155,6 @@ a:active{
     background-color: var(--color-light-grey);
 }
 
-a:active::after{
-    
-}
-
 .footer{
     padding: var(--footer-padding);
 }
